@@ -37,5 +37,5 @@ This version includes **9 categorized food cards** to help users find nutritiona
 ## 📬 Contact
 
 For suggestions, feedback, or collab:  
-📧 your-codendeveloper969.com  
+📧 EMAIL:codendeveloper969@gmail.com  
 🔗 [GitHub Profile](https://github.com/Amritbhandari111)
