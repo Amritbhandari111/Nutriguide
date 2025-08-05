@@ -24,5 +24,5 @@ Kotlin + Jetpack Compose
 Material 3 for clean UI
 
 🙌 Credits
-Built with 💚 by [Amrit Bhandari]
+Built with 💚 by [Amrit Bhandari]  
 Part of the Summer Hack Club Project 🌞
