@@ -1,2 +1,0 @@
-package com.amrit.nutriguidefoodsbyconditionnutrients.foodsscreen.utils
-
