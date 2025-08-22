@@ -4,7 +4,7 @@ NutriGuide is a fast, offline Android app that helps users explore detailed nutr
 ---
 
 ## 🚀 Try the App
-[![Get it on Google Play](https://play.google.com/store/apps/details?id=com.amrit.nutriguidefoodsbyconditionnutrients&pcampaignid=web_share)
+[![Get it on Google Play](https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png)](https://play.google.com/store/apps/details?id=com.amrit.nutriguidefoodsbyconditionnutrients&pcampaignid=web_share)
 
 ---
 
@@ -39,7 +39,7 @@ NutriGuide is a fast, offline Android app that helps users explore detailed nutr
 
 ## 🙌 Credits
 Built by **Amrit Bhandari & Rabin Chudali**  
-
+Part of the **Summer Hack Club Project 🌞**
 
 <p align="center">
   <table>
