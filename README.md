@@ -4,7 +4,7 @@ NutriGuide is a fast, offline Android app that helps users explore detailed nutr
 ---
 
 ## 🚀 Try the App
-[![Get it on Google Play](https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png)](https://play.google.com/store/apps/details?id=YOUR_PACKAGE_NAME)
+[![Get it on Google Play](https://play.google.com/store/apps/details?id=com.amrit.nutriguidefoodsbyconditionnutrients&pcampaignid=web_share)
 
 ---
 
@@ -39,23 +39,27 @@ NutriGuide is a fast, offline Android app that helps users explore detailed nutr
 
 ## 🙌 Credits
 Built by **Amrit Bhandari & Rabin Chudali**  
-Part of the **Summer Hack Club Project 🌞**
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github.com/Amritbhandari111/Nutriguide-Foods-Nutrition/blob/master/my%20pic.jpg" width="150px" style="border-radius:50%"><br><br>
-      <b>Amrit Bhandari</b><br>
-      <a href="https://www.facebook.com/amerit.bhandari">Facebook</a> |
-      <a href="https://instagram.com/YOUR_INSTAGRAM">Instagram</a> |
-      <a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a>
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github.com/Amritbhandari111/Nutriguide-Foods-Nutrition/blob/master/6e064e8b-0622-4ab8-ab1a-8d0245d376dc.jpeg" width="150px" style="border-radius:50%"><br><br>
-      <b>Rabin Chudali</b><br>
-      <a href="https://www.facebook.com/rabin.chudali.116359?rdid=iq8IpNj49KnMQZAV&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F16xiPLeb7j%2F#">Facebook</a> |
-      <a href="https://www.instagram.com/rabinchudali_07?igsh=aHZtbGFhdHNtcDE0">Instagram</a> |
-      <a href="https://www.linkedin.com/in/rabin-chudali-9600b934b/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">LinkedIn</a>
-    </td>
-  </tr>
-</table>
+
+<p align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://github.com/Amritbhandari111/Nutriguide-Foods-Nutrition/blob/master/my%20pic.jpg" width="200px" style="border-radius:50%"><br><br>
+        <b>Amrit Bhandari</b><br>
+        <i>(App Developer)</i><br><br>
+        <a href="https://www.facebook.com/amerit.bhandari">Facebook</a> |
+        <a href="https://www.instagram.com/amr__it_/">Instagram</a> |
+        <a href="https://www.linkedin.com/in/amrit-bhandari-0801b42a7/">LinkedIn</a>
+      </td>
+      <td align="center" width="50%">
+        <img src="https://github.com/Amritbhandari111/Nutriguide-Foods-Nutrition/blob/master/6e064e8b-0622-4ab8-ab1a-8d0245d376dc.jpeg" width="200px" style="border-radius:50%"><br><br>
+        <b>Rabin Chudali</b><br>
+        <i>(UI/UX Designer)</i><br><br>
+        <a href="https://www.facebook.com/rabin.chudali.116359?rdid=iq8IpNj49KnMQZAV&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F16xiPLeb7j%2F#">Facebook</a> |
+        <a href="https://www.instagram.com/rabinchudali_07?igsh=aHZtbGFhdHNtcDE0">Instagram</a> |
+        <a href="https://www.linkedin.com/in/rabin-chudali-9600b934b/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">LinkedIn</a>
+      </td>
+    </tr>
+  </table>
+</p>
